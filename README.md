@@ -1,1 +1,1 @@
-# Simple-Password-Generator
+This code generates random password including random characters, numbers and punctuation values
